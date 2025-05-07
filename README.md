@@ -1,4 +1,3 @@
-# SocialRobotDesignPortfolio
 # Social Robot Design Portfolio
 
 ## Table of Contents
