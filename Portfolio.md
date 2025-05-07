@@ -33,7 +33,7 @@
 ## Group Work
 
 ### Case Description
-After poperly analising the features of ROSE robot [![Alt Text](Features.jpg)](fullsize.jpg)
+After poperly analising the features of ROSE robot [![Alt Text](Features.jpg)](Features.jpg)
 
 ### Selection of Useful Design Tools
 ...
