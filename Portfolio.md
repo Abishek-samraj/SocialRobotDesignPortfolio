@@ -17,7 +17,16 @@
     - [Reflection: Nabaztag](#reflection-nabaztag)
     - [Reflection: CuddleBits](#reflection-cuddlebits)
     - [Reflection: Be-Right-Back](#reflection-be-right-back)
-- Week 2
+- Week 2 Storytelling
+  - [Group Work](#group-work)
+  - [Reflections](#reflections)
+    - [Robot/AI Story Categories](#robotaistory-categories)
+    - [Science Fiction Prototyping vs Scenario-Based Design](#science-fiction-prototyping-vs-scenario-based-design)
+    - [Reflection: 21st Century Robot](#reflection-21st-century-robot)
+    - [Reflection: Product Stories vs Reality](#reflection-product-stories-vs-reality)
+    - [Why Storytelling Matters in Social Robot Design](#why-storytelling-matters-in-social-robot-design)
+    - [Reflection: Healthcare vs Social Robot Stories](#reflection-healthcare-vs-social-robot-stories)
+
 ---
 
 ## About Me
@@ -27,6 +36,7 @@
 | Abishek Samraj Johnson Sembudurai  | MSc student in Robotics, specilisation in Mechatronics and Physical AI, exploring robot control, perception, and HRI design.                                       | [Download My CV](CV.pdf) |
 
 ---
+## Week 1
 
 ## Group Work
 
@@ -100,3 +110,26 @@ Here os the slide with
 -  I haven't watched 'Be Right Back' (Black Mirror) but after reading about it, its evident that robots can help people but cannot fully replace real humans.
 
 ...
+## Week 2 Storytelling
+
+## Reflections
+
+### Robot/AI Story Categories
+Robot stories usually fall into a few types. Some show robots as friendly helpers (like in Wall-E), while others show them as dangerous or taking over (like Terminator). Some robots have emotions and form relationships (Her), while others are just tools or machines. There are also stories that make us think about the future and how robots may change our lives.
+
+### Science Fiction Prototyping vs Scenario-Based Design
+Science Fiction Prototyping is about creating stories based on real science to imagine future problems or changes. It focuses on what might happen and how it could affect people. Regular Scenario-Based Design is more practical. It helps designers think about how people would use a product in real life today. So, one is more about exploring ideas, and the other is about making real things work.
+
+### Reflection: 21st Century Robot
+The project wanted the robot to be friendly and easy to accept, so it became something like NAO—small, cute, and simple. But it could have been more unique. For example, the robot could have had different styles, learned from users over time, or had a different personality for different cultures. The story could have made it more interesting.
+
+### Reflection: Product Stories vs Reality
+Companies often tell exciting stories—like the robot being smart, friendly, and very helpful. But in real life, these robots can only do a few things. They are often not as good as shown in ads. The stories are made to sell the robot, not to show what it really does.
+
+### Why Storytelling Matters in Social Robot Design
+A good story helps people understand the robot and trust it. If the robot looks friendly but acts cold, people get confused. The story also helps designers explain their idea to others. So, the story needs to match how the robot looks, sounds, and behaves.
+
+### Reflection: Healthcare vs Social Robot Stories
+In healthcare, people want proof that something works before they use it. But robot designers often start with a cool idea or dream and test it later. This makes it hard for robots to be used in hospitals. Robot stories should include some real proof if they want to be taken seriously in healthcare.
+
+
