@@ -33,7 +33,7 @@
 ## Group Work
 
 ### Case Description
-After poperly analising the features of ROSE robot (a social robot designed to support healthcare settings), we have categorised them as [View Features Image](Features.jpg) Then our group explored three application ideas for ROSE, particularly for elderly care and hospitals. The goal was to create meaningful value through companionship, cognitive stimulation, emotional connection, and assistance in daily tasks.
+After poperly analising the features of ROSE robot (a social robot designed to support healthcare settings), we have categorised them as [View Features Image](Features.jpg) Then our group explored three application ideas for ROSE [View Application Image](Applications.jpg), particularly for elderly care and hospitals. The goal was to create meaningful value through companionship, cognitive stimulation, emotional connection, and assistance in daily tasks.
 
 **Idea 1: Entertainment Robot for Children in Waiting Rooms**  
 ROSE serves as a playful companion to entertain children while their guardians attend medical appointments. It adapts games based on the number and age of participants and uses cartoon-like voices and animations to remain engaging.
