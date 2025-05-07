@@ -26,7 +26,7 @@
 
 | Member     | Brief Introduction                                                                                                  | Personal Page |
 |------------|---------------------------------------------------------------------------------------------------------------------|---------------|
-| Your Name  | MSc student in Robotics, exploring robot control, perception, and HRI design.                                       | [See CV.pdf]() |
+| Abishek Samraj Johnson Sembudurai  | MSc student in Robotics, exploring robot control, perception, and HRI design.                                       | [See CV.pdf]() |
 
 ---
 
