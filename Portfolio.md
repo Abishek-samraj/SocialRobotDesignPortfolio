@@ -69,7 +69,7 @@ Here os the slide with
 - **Stakeholder Mapping** – to identify roles and needs of all users
 
 ### Slide
-Please find the slide with summary of our case here 
+- Please find the slide with summary of our case here 
 ---
 
 ## Reflections
