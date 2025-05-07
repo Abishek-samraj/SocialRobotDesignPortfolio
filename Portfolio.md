@@ -112,7 +112,7 @@ Here os the slide with
 ...
 ## Week 2 Storytelling
 ## Group Work 
-![Pillars of a social robot](Pillars of a social robot.jpg)
+![Pillars of a social robot](Pillars.jpg)
 ## Reflections
 
 ### Robot/AI Story Categories
