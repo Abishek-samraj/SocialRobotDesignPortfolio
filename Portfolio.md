@@ -26,7 +26,7 @@
 
 | Member     | Brief Introduction                                                                                                  | Personal Page |
 |------------|---------------------------------------------------------------------------------------------------------------------|---------------|
-| Your Name  | MSc student in Robotics, exploring robot control, perception, and HRI design.                                       | [See CV.md]() |
+| Your Name  | MSc student in Robotics, exploring robot control, perception, and HRI design.                                       | [See CV.pdf]() |
 
 ---
 
@@ -35,6 +35,7 @@
 ### Case Description
 _Describe your group project goals, robot use case, and applications._
 
+### Selection of Useful Design Tools
 ...
 
 ---
@@ -44,4 +45,6 @@ _Describe your group project goals, robot use case, and applications._
 ### How is Design Research linked to HRI
 _Write your thoughts..._
 
+
+### Digital (AI) vs Embodiment
 ...
