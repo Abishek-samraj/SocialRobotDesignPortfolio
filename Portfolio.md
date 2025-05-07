@@ -33,7 +33,7 @@
 ## Group Work
 
 ### Case Description
-_Describe your group project goals, robot use case, and applications._
+After poperly analising the features of ROSE robot [See Features.jpg]()
 
 ### Selection of Useful Design Tools
 ...
