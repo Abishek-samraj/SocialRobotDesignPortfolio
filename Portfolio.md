@@ -33,7 +33,34 @@
 ## Group Work
 
 ### Case Description
-After poperly analising the features of ROSE robot, we have categorised them as [View Features Image](Features.jpg)
+After poperly analising the features of ROSE robot (a social robot designed to support healthcare settings), we have categorised them as [View Features Image](Features.jpg) Then our group explored three application ideas for ROSE, particularly for elderly care and hospitals. The goal was to create meaningful value through companionship, cognitive stimulation, emotional connection, and assistance in daily tasks.
+
+**Idea 1: Entertainment Robot for Children in Waiting Rooms**  
+ROSE serves as a playful companion to entertain children while their guardians attend medical appointments. It adapts games based on the number and age of participants and uses cartoon-like voices and animations to remain engaging.
+
+**Idea 2: Retro Companion for Dementia Care**  
+ROSE acts as a retro-styled companion for elderly patients with Alzheimer’s or dementia. It interacts in a 60s/70s tone, plays familiar music for memory recall, and provides basic expressions. In case of emergency, it can alert trusted contacts.
+
+**Idea 3: Autonomous Delivery Robot in Healthcare**  
+ROSE functions as an autonomous logistics assistant, capable of safely transporting items such as medication or samples between different locations. It requires safe storage, navigation tools, gripping mechanisms, and monitoring for safe handling.
+
+## Requirements  
+
+**Idea 1 (Children’s Robot)**  
+- Visually engaging and suitable for children  
+- Uses entertaining dialogues and cartoon-style speech  
+- Games can be adjusted based on age and group size  
+
+**Idea 2 (Dementia Care)**  
+- Calming voice using retro speech style  
+- Basic facial expressions for emotional comfort  
+- Familiar regional personality tone  
+- Emergency alert capability  
+
+**Idea 3 (Logistics Robot)**  
+- Safe handling of items  
+- Storage and gripping capabilities  
+- Ability to deliver without human help  
 
 ### Selection of Useful Design Tools
 ...
