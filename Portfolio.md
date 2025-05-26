@@ -44,6 +44,9 @@
     - [Designing Robot Interaction](#designing-robot-interaction)
     - [Anthropomorphism vs Function](#anthropomorphism-vs-function)
     - [Function Defines Form](#function-defines-form)
+   
+  - Week 5 Tools for ROSE
+  - [Expression](#expression)
 ---
 
 ## About Me
@@ -151,11 +154,14 @@ A good story helps people understand the robot and trust it. If the robot looks 
 ### Reflection: Healthcare vs Social Robot Stories
 In healthcare, people want proof that something works before they use it. But robot designers often start with a cool idea or dream and test it later. This makes it hard for robots to be used in hospitals. Robot stories should include some real proof if they want to be taken seriously in healthcare.
 
-#Week 3 Expression
-## Group Work
-![Expressive](Expressive 1.jpg)
-
 ## Week 3 Expression
+## Group Work
+You can view the demo of the game on Google Photos:
+
+[Watch the video here](https://photos.app.goo.gl/XGsbWw34DVTzu7nb9)
+![Expressive](Expressive_1.jpg)
+
+
 
 ### Reflections
 
@@ -175,6 +181,10 @@ The Laban Framework can also inspire sound and haptic design. For example, a rob
 If designing a deliberately anti-social robot, I would focus on minimal interaction, no emotional expression, and slow, stiff movement. The robot would avoid non-verbal cues like eye contact or expressive gestures, using only the most basic motions needed for functionality. This would create a robot that is functional but distant, avoiding unnecessary social engagement or emotional expression.
 
 ## Week 4 Embodiment
+## Group Work
+![Embodiment1](Embodiment_1.jpg)
+![Embodiment2](Embodiment_2.jpg)
+![Embodiment3](Embodiment.jpg)
 
 ### Reflections
 
@@ -189,5 +199,9 @@ If designing a deliberately anti-social robot, I would focus on minimal interact
 
 #### **Function Defines Form**
 - The embodiment of a robot should be primarily determined by its functions. For example, a robot that must move and manipulate objects will need a design with appropriate mobility and grasping capabilities. Function-first design ensures that robots are built for practical use, with social or emotional aspects added thoughtfully for engagement.
+
+
+## Week 5 Tools for ROSE
+## Expression
 
 ---
