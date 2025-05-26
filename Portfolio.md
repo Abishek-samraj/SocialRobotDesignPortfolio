@@ -36,6 +36,14 @@
     - [Designing Robot Movement](#designing-robot-movement)
     - [Sound Design, Haptics and Morphology](#sound-design-haptics-and-morphology)
     - [Anti-Social Robot Design](#anti-social-robot-design)
+
+  - Week 4 Embodiment
+  - [Group Work](#group-work)
+  - [Reflections](#reflections)
+    - [Embodied vs Virtual Interaction](#embodied-vs-virtual-interaction)
+    - [Designing Robot Interaction](#designing-robot-interaction)
+    - [Anthropomorphism vs Function](#anthropomorphism-vs-function)
+    - [Function Defines Form](#function-defines-form)
 ---
 
 ## About Me
@@ -164,3 +172,20 @@ The Laban Framework can also inspire sound and haptic design. For example, a rob
 #### **Anti-Social Robot Design**
 If designing a deliberately anti-social robot, I would focus on minimal interaction, no emotional expression, and slow, stiff movement. The robot would avoid non-verbal cues like eye contact or expressive gestures, using only the most basic motions needed for functionality. This would create a robot that is functional but distant, avoiding unnecessary social engagement or emotional expression.
 
+## Week 4 Embodiment
+
+### Reflections
+
+#### **Embodied vs Virtual Interaction**
+- Commercial robots like **Moxie** show that physical embodiment plays a key role in how robots communicate and connect. In **Moxie’s** case, physical interaction like head movement or proximity—makes it more engaging and human-like, whereas a virtual embodiment would lack the immediacy and real-time engagement possible with physical interaction.
+
+#### **Designing Robot Interaction**
+- The paper emphasizes **embodied interaction** using human body-oriented modalities for communication. Designing robots should consider how physical presence impacts user interactions. This is crucial when deciding whether the robot should be physical (with human-like motions and gestures) or virtual (like avatars or voice-only).
+
+#### **Anthropomorphism vs Function**
+- Designing robots with **human-like traits** can be beneficial for making them approachable, but function must drive form. For example, a robot vacuum doesn’t need to resemble a human to be effective, but a companion robot might need human-like expressions to foster emotional connection. **Anthropomorphism** should not be overdone, especially if it leads to mismatched user expectations.
+
+#### **Function Defines Form**
+- The embodiment of a robot should be primarily determined by its functions. For example, a robot that must move and manipulate objects will need a design with appropriate mobility and grasping capabilities. Function-first design ensures that robots are built for practical use, with social or emotional aspects added thoughtfully for engagement.
+
+---
