@@ -152,6 +152,8 @@ A good story helps people understand the robot and trust it. If the robot looks 
 In healthcare, people want proof that something works before they use it. But robot designers often start with a cool idea or dream and test it later. This makes it hard for robots to be used in hospitals. Robot stories should include some real proof if they want to be taken seriously in healthcare.
 
 #Week 3 Expression
+## Group Work
+![Expressive](Expressive 1.jpg)
 
 ## Week 3 Expression
 
