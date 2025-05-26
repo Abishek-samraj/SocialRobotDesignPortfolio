@@ -203,5 +203,8 @@ If designing a deliberately anti-social robot, I would focus on minimal interact
 
 ## Week 5 Tools for ROSE
 ## Expression
+![ROSE Expression](ROSE_Expression_1.jpg)
+![ROSE Expression](ROSE_Expression_2.jpg)
+![ROSE Expression](ROSE_Expression_3.jpg)
 
 ---
