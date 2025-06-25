@@ -140,6 +140,91 @@ I haven't watched 'Be Right Back' (Black Mirror) but after reading about it, its
 ...
 ## Week 2 Storytelling
 ## Group Work 
+### Story-Building Tool: *The Robot Enactment Game*
+
+Our **story-building tool** is a **scenario-based card game** that supports storytelling in human-robot interaction. It’s designed around **Freytag’s Pyramid** and helps simulate emotionally rich social robot scenarios through role-playing and improvisation.
+
+#### How the Game Works
+
+**Setup:**
+- One player is chosen as the **robot**.
+- Other players receive an **Actor Card**.
+- All players get a **Trait Card**.
+
+> 🖼*Example Cards Below*  
+> ![Trait Card](TraitCard.jpg)  
+> ![Actor Card](ActorCard.jpg)
+
+---
+
+**The Incident:**
+- A player draws an **Incident Card** and reads it aloud.
+- Set a 1-minute timer.
+- All participants act out their roles and react to the scenario.
+
+> 🖼️ *Example Incident Card:*  
+> ![Incident Card](IncidentCard.jpg)
+
+---
+
+**The Resolution:**
+- Each player draws:  
+  - 2 **Object Cards**,  
+  - 2 **Action Cards**,  
+  - and 1 **Wild Card**.
+- Set the timer again.
+- Players resolve the scenario **in character**, using one or more of their cards.
+- Wild Cards can represent any custom solution imagined by the player.
+
+> 🖼️ *Summary of Rules:*  
+> ![Summary Card](SummaryCard.jpg)
+
+---
+
+**Next Round:**
+- The robot role rotates to the next player.
+- Wild Cards are kept.
+- Other cards are shuffled.
+- New round begins with the Setup.
+
+Full card set and template:  
+[🃏 Canva Design Link](https://www.canva.com/design/DAGmrcvpGLM/G1klm_CggOCkY95wnVHsEA/edit)
+
+---
+
+#### Design Intent
+
+This tool is explicitly created for **scenario-based storytelling in HRI**, not general HCI. Its design:
+- Encourages **co-creation** of robot behaviors with multiple participants.
+- Helps prototype **emotionally and socially complex interactions**.
+- Can be **customized** per robot project (e.g., healthcare, education).
+
+---
+
+#### 🏥 Application to ROSE Robot
+
+We adapted the game for healthcare design with ROSE robot. Two example scenarios used:
+
+1. **Sleepless Night Scenario**  
+   A child’s mother cannot sleep and screams at night—possibly due to a health crisis involving her grandmother.
+
+2. **Bathroom Scenario**  
+   An elderly man needs to use the bathroom but can’t get up from bed alone.
+
+These scenarios helped test how a robot like ROSE could mediate distress, prioritize emergencies, or act empathetically.
+
+---
+
+#### 📸 Images of the Game in Action
+
+| Trait Card | Incident Card | Summary Card |
+|------------|----------------|--------------|
+| ![Trait](TraitCard.jpg) | ![Incident](IncidentCard.jpg) | ![Summary](SummaryCard.jpg) |
+
+---
+
+> 💡 *Tip: Before playing, customize your cards to match the robot or context (e.g., hospital, classroom). This makes the enactment richer and more relevant.*
+
 ![Pillars of a social robot](Pillars.jpg)
 ![Robot Enactmaent Game](Robot_Enactment_Game.jpg)
 ## Reflections
