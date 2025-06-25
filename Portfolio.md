@@ -151,7 +151,7 @@ Our **story-building tool** is a **scenario-based card game** that supports stor
 - Other players receive an **Actor Card**.
 - All players get a **Trait Card**.
 
-> 🖼*Example Cards Below*  
+> *Example Cards Below*  
 > ![Trait Card](TraitCard.png)  
 > ![Actor Card](ActorCard.png)
 
@@ -162,7 +162,7 @@ Our **story-building tool** is a **scenario-based card game** that supports stor
 - Set a 1-minute timer.
 - All participants act out their roles and react to the scenario.
 
-> 🖼️ *Example Incident Card:*  
+> *Example Incident Card:*  
 > ![Incident Card](IncidentCard.png)
 
 ---
@@ -201,7 +201,7 @@ This tool is explicitly created for **scenario-based storytelling in HRI**, not 
 
 ---
 
-#### 🏥 Application to ROSE Robot
+#### Application to ROSE Robot
 
 We adapted the game for healthcare design with ROSE robot. Two example scenarios used:
 
