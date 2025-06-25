@@ -152,8 +152,8 @@ Our **story-building tool** is a **scenario-based card game** that supports stor
 - All players get a **Trait Card**.
 
 > 🖼*Example Cards Below*  
-> ![Trait Card](TraitCard.jpg)  
-> ![Actor Card](ActorCard.jpg)
+> ![Trait Card](TraitCard.png)  
+> ![Actor Card](ActorCard.png)
 
 ---
 
@@ -163,7 +163,7 @@ Our **story-building tool** is a **scenario-based card game** that supports stor
 - All participants act out their roles and react to the scenario.
 
 > 🖼️ *Example Incident Card:*  
-> ![Incident Card](IncidentCard.jpg)
+> ![Incident Card](IncidentCard.png)
 
 ---
 
@@ -219,7 +219,7 @@ These scenarios helped test how a robot like ROSE could mediate distress, priori
 
 | Trait Card | Incident Card | Summary Card |
 |------------|----------------|--------------|
-| ![Trait](TraitCard.jpg) | ![Incident](IncidentCard.jpg) | ![Summary](SummaryCard.jpg) |
+| ![Trait](TraitCard.png) | ![Incident](IncidentCard.png) | ![Summary](SummaryCard.png) |
 
 ---
 
