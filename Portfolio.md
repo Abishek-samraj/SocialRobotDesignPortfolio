@@ -176,8 +176,8 @@ Our **story-building tool** is a **scenario-based card game** that supports stor
 - Players resolve the scenario **in character**, using one or more of their cards.
 - Wild Cards can represent any custom solution imagined by the player.
 
-> 🖼️ *Summary of Rules:*  
-> ![Summary Card](SummaryCard.jpg)
+> *Summary of Rules:*  
+> ![Summary Card](SummaryCard.png)
 
 ---
 
@@ -212,14 +212,6 @@ We adapted the game for healthcare design with ROSE robot. Two example scenarios
    An elderly man needs to use the bathroom but can’t get up from bed alone.
 
 These scenarios helped test how a robot like ROSE could mediate distress, prioritize emergencies, or act empathetically.
-
----
-
-#### 📸 Images of the Game in Action
-
-| Trait Card | Incident Card | Summary Card |
-|------------|----------------|--------------|
-| ![Trait](TraitCard.png) | ![Incident](IncidentCard.png) | ![Summary](SummaryCard.png) |
 
 ---
 
