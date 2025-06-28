@@ -311,7 +311,7 @@ In our group, we used the **Dash Robot** for this activity. Dash is a small, pro
 1. **Familiarization with the Dash Robot**:  
    Participants first familiarized themselves with the robot's controls via a smartphone app. The robot’s capabilities, including movement, sound, and LED control, were explored.
 
-  ![Dash Control](Dash-Control.jpg) 
+  ![Dash Control](Dash_Control.jpg) 
 
 3. **Emotion Selection**:  
    The **Robot Controller** selected an emotion from the predefined list (e.g., Happy, Sad, Angry, Confused). The emotion was kept secret from the other players.
@@ -345,7 +345,7 @@ This tool is also connected to our **Story-Building Game** from Session 2. By co
 
 ---
 > 💡 *Note: The list of emotions is defined before the experiment by choosing at least two emotions for each of the six main groups in the Expression Wheel.*
- ![Expression Wheel](Expression-Wheel.png)
+ ![Expression Wheel](Expression_Wheel.png)
 
 ### **Conclusion **
 
