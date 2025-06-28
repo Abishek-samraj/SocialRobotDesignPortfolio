@@ -210,7 +210,7 @@ These scenarios helped test how a robot like ROSE could mediate distress, priori
 
 > 💡 *Tip: Before playing, customize your cards to match the robot or context (e.g., hospital, classroom). This makes the enactment richer and more relevant.*
 
-![Pillars of a social robot](Pillars.jpg)
+
 ## Reflections
 
 ### Robot and AI Story Categories
@@ -348,7 +348,7 @@ This tool is also connected to our **Story-Building Game** from Session 2. By co
 
 ![Expression_Wheel](Expression_Wheel.png)
 
-### **Conclusion **
+### Conclusion
 
 Using both physical and digital tools helped us reflect on the importance of **nonverbal communication** in social robots. These exercises will contribute to improving the expressiveness of robots like **ROSE**, enabling them to better interact with humans in various social settings.
 
