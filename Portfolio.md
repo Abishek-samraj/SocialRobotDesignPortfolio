@@ -177,7 +177,7 @@ Our **story-building tool** is a **scenario-based card game** that supports stor
 - Wild Cards can represent any custom solution imagined by the player.
 
 > *Summary of Rules:*  
-> ![Summary Card](SummaryCard.png)
+> ![Rules1](Rules2.png)
 
 ---
 
@@ -345,7 +345,8 @@ This tool is also connected to our **Story-Building Game** from Session 2. By co
 
 ---
 > 💡 *Note: The list of emotions is defined before the experiment by choosing at least two emotions for each of the six main groups in the Expression Wheel.*
- ![Expression Wheel](Expression_Wheel.png)
+
+![Expression_Wheel](Expression_Wheel.png)
 
 ### **Conclusion **
 
