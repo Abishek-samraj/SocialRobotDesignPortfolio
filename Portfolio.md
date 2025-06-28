@@ -211,7 +211,6 @@ These scenarios helped test how a robot like ROSE could mediate distress, priori
 > 💡 *Tip: Before playing, customize your cards to match the robot or context (e.g., hospital, classroom). This makes the enactment richer and more relevant.*
 
 ![Pillars of a social robot](Pillars.jpg)
-![Robot Enactmaent Game](Robot_Enactment_Game.jpg)
 ## Reflections
 
 ### Robot and AI Story Categories
@@ -306,13 +305,13 @@ The **Expression Game** is designed to explore how robots can express emotions t
 
 In our group, we used the **Dash Robot** for this activity. Dash is a small, programmable educational robot with three degrees of freedom: two wheels for movement and a head that can pan and tilt. It also features LEDs and speakers to produce various emotional cues like lights and sounds.
 
-![Dash](Dash.png)
+![Dash](Dash.jpg)
 
 **Steps we followed:**
 1. **Familiarization with the Dash Robot**:  
    Participants first familiarized themselves with the robot's controls via a smartphone app. The robot’s capabilities, including movement, sound, and LED control, were explored.
 
-  ![Dash Control](Dash Control.png) 
+  ![Dash Control](Dash-Control.jpg) 
 
 3. **Emotion Selection**:  
    The **Robot Controller** selected an emotion from the predefined list (e.g., Happy, Sad, Angry, Confused). The emotion was kept secret from the other players.
@@ -346,7 +345,7 @@ This tool is also connected to our **Story-Building Game** from Session 2. By co
 
 ---
 > 💡 *Note: The list of emotions is defined before the experiment by choosing at least two emotions for each of the six main groups in the Expression Wheel.*
- ![Expression Wheel](Expression Wheel.png)
+ ![Expression Wheel](Expression-Wheel.png)
 
 ### **Conclusion **
 
