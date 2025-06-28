@@ -28,7 +28,7 @@
     - [Reflection: Healthcare vs Social Robot Stories](#reflection-healthcare-vs-social-robot-stories)
       
 - Week 3 Expression
-  - [Group Work](#group-work)
+  - [Group Work: Experiment and Design Tool](#group-work-experiment-and-design-tool)
 
   - [Reflections](#reflections)
     - [Lessons from Ju and Hoffmann](#lessons-from-ju-and-hoffmann)
@@ -190,14 +190,7 @@ Our **story-building tool** is a **scenario-based card game** that supports stor
 Full card set and template:  
 [🃏 Canva Design Link](https://www.canva.com/design/DAGmrcvpGLM/G1klm_CggOCkY95wnVHsEA/edit)
 
----
 
-#### Design Intent
-
-This tool is explicitly created for **scenario-based storytelling in HRI**, not general HCI. Its design:
-- Encourages **co-creation** of robot behaviors with multiple participants.
-- Helps prototype **emotionally and socially complex interactions**.
-- Can be **customized** per robot project (e.g., healthcare, education).
 
 ---
 
@@ -240,11 +233,126 @@ A good story helps people understand the robot and trust it. If the robot looks 
 In healthcare, people want proof that something works before they use it. But robot designers often start with a cool idea or dream and test it later. This makes it hard for robots to be used in hospitals. Robot stories should include some real proof if they want to be taken seriously in healthcare.
 
 ## Week 3 Expression
-## Group Work
-You can view the demo of the game on Google Photos:
+## Group Work: Experiment and Design Tool
 
-[Watch the video here](https://photos.app.goo.gl/XGsbWw34DVTzu7nb9)
-![Expressive](Expressive_1.jpg)
+
+In our group work for **Session 3: Expression**, we explored a tool for **expressive behavior design** in social robots using both physical and digital methods. The **paper robot** experiment was aimed at simulating and puppeteering nonverbal expressions such as happiness, sadness, and listening. This helped us understand how robots can convey emotions through physical embodiment without relying on facial expressions.
+
+#### Experiment: Paper Robot Embodiment
+
+We started with a simple paper-based robot embodiment. The robot was created by folding a paper cube with a polystyrene ball (head) attached to it by a spring.
+
+![Paper Robot Neutral State](PaperRobot.jpg)  
+*Neutral state: Robot is calm and attentive.*
+
+**Emotions simulated:**
+1. **Neutral:** The robot maintains a stable position, neither showing extreme emotion nor reaction.
+2. **Happy:** The robot's head wiggles as if expressing excitement.
+3. **Sad:** The head bows down to signify sadness.
+4. **Listening:** The robot's head tilts upwards toward the speaker to show attention.
+
+**Videos of these states:**
+- [Neutral State](https://photos.app.goo.gl/y7njuL2U7Rp3F9j18)
+- [Happy State](https://photos.app.goo.gl/2fbrpPvGrXz1HEPD7)
+- [Listening State](https://photos.app.goo.gl/BhKkMQpAKL8Hex1S6)
+- [Sad State](https://photos.app.goo.gl/yo1JCWAfzobr66iE8)
+
+#### Observations from the Experiment
+
+After experimenting with the paper robot, we discussed the following insights:
+- The **Sad state** was universally understood through the downward bow of the head.
+- The **Happy state** was interpreted as excitement by some, though others felt it conveyed joy.
+- The **Listening state** required clarification, as some thought the robot was asking “yes/no” rather than showing attention by tilting its head.
+- This exercise helped us realize how **nonverbal communication** can express a range of emotions, even with minimal design.
+
+---
+
+#### **Design Tool: The Expression Game**
+
+The **Expression Game** is designed to explore how robots can express emotions through movement, gestures, and sounds. This game allows participants to simulate a variety of robot behaviors and responses, using a set of predefined emotions. It tests the ability of a robot to convey its emotional state and how others interpret that expression. The tool aims to enhance the design of robots that can express emotions in a meaningful way.
+
+---
+
+#### **Rules of the Game:**
+
+**Setup:**
+- One player is chosen to be the **Robot Controller**.
+- The other players are the **Guessers**.
+- The **Robot Controller** draws an **Emotion Card** from a predefined list. The emotion must remain secret throughout the round.
+- Players take turns being the **Robot Controller**.
+
+**The Expression Round:**
+- The **Robot Controller** has **30 seconds** to express the emotion using the available robot features (e.g., motion, lights, gestures, sounds). The robot can move and interact with the environment during this round to express the emotion.
+
+**The Guessing:**
+- After the **Expression Round**, all players (**Guessers**) cast a vote on which emotion they think the robot has expressed. Voting is done by raising hands or using other simple methods.
+
+**The Reveal & Discussion:**
+- The **Robot Controller** reveals the actual emotion.
+- A short **group discussion** follows, where participants reflect on:
+  - **What cues led to the guesses?**
+  - **What made the expression clear or confusing?**
+  - **How could the robot’s expressiveness be improved?**
+
+**Next Round:**
+- The next player clockwise becomes the new **Robot Controller**.
+- A new **Emotion Card** is drawn, and the game repeats.
+
+---
+> *Summary of Rules:*  
+> ![Rules2](Rules2.png)
+---
+#### **Experience with the Dash Robot**
+
+In our group, we used the **Dash Robot** for this activity. Dash is a small, programmable educational robot with three degrees of freedom: two wheels for movement and a head that can pan and tilt. It also features LEDs and speakers to produce various emotional cues like lights and sounds.
+
+![Dash](Dash.png)
+
+**Steps we followed:**
+1. **Familiarization with the Dash Robot**:  
+   Participants first familiarized themselves with the robot's controls via a smartphone app. The robot’s capabilities, including movement, sound, and LED control, were explored.
+
+  ![Dash Control](Dash Control.png) 
+
+3. **Emotion Selection**:  
+   The **Robot Controller** selected an emotion from the predefined list (e.g., Happy, Sad, Angry, Confused). The emotion was kept secret from the other players.
+
+4. **Expression Performance**:  
+   The **Robot Controller** used the Dash Robot’s features to express the chosen emotion. This was done through:
+   - **Movement**: The robot might move in a particular way to convey the emotion (e.g., slow, deliberate movements for sadness or rapid movement for excitement).
+   - **Sound**: The robot might play specific sounds that align with the emotion (e.g., upbeat music for happiness or a low-pitched sound for sadness).
+   - **Lights**: Dash's LED lights were used to reinforce the emotional state (e.g., red for anger, green for calmness).
+
+5. **Guessing**:  
+   After the robot’s expression, the other participants guessed the emotion based on the robot’s movements, sounds, and lights.
+
+6. **Reveal & Discussion**:  
+   The **Robot Controller** revealed the actual emotion, and the group discussed:
+   - **What clues led them to their guess?**
+   - **Was the robot's expression clear or ambiguous?**
+   - **How could the robot's expressiveness be improved for better understanding?**
+
+---
+
+#### **Linking Expression and Storytelling**
+
+This tool is also connected to our **Story-Building Game** from Session 2. By combining these tools, we could envision how the robot could react to specific scenarios with the same expressive behaviors used in our **robot enactment game**. The robot can participate in emotional storytelling, which helps us design robots that can engage in nuanced, emotionally intelligent ways.
+
+---
+
+#### Videos
+  - [Round 1 - Confused](https://photos.app.goo.gl/mKKXT75fJZSimFBq9)
+  - [Round 2 - Excited](https://photos.app.goo.gl/5Td6v3C9Th9fM2ZSA)
+
+---
+> 💡 *Note: The list of emotions is defined before the experiment by choosing at least two emotions for each of the six main groups in the Expression Wheel.*
+ ![Expression Wheel](Expression Wheel.png)
+
+### **Conclusion **
+
+Using both physical and digital tools helped us reflect on the importance of **nonverbal communication** in social robots. These exercises will contribute to improving the expressiveness of robots like **ROSE**, enabling them to better interact with humans in various social settings.
+
+
 
 
 
