@@ -479,41 +479,70 @@ This tool revealed how tightly **robot embodiment is linked to user perception**
 
 ## Week 6: Behavior Group Work
 ## Group Work
-### **Tool: Robot Enactment Game with ChatGPT for Behavior Prototyping**
-The **Robot Enactment Game** is a tool designed to prototype high-level robot behaviors, allowing us to simulate real-world scenarios and test how a robot reacts to user inputs. For this exercise, we used **ChatGPT** (or an AI-based program/robot of your choice) to simulate robot interactions based on predefined instructions. The goal is to have the robot perform specific tasks or behaviors by interacting with a user who provides detailed step-by-step commands.
+In **Session 6: Behaviour**, we explored how to prototype high-level robot behaviour using natural language AIs like ChatGPT. Our goal was to play the **Robot Enactment Game** (from Week 2) with a **digital robot player** a GPT-powered AI.
 
+This design tool helps us understand how to **structure interactions**, **assign intent**, and refine **robotic responses** in emotionally rich scenarios.
 
-### **How the Tool Works:**
-The user provides a list of instructions for a common task (e.g., making a **PB&J sandwich**) while the robot attempts to follow the steps, taking note of any implied actions or errors. The robot then executes these steps while adhering to the specified actions, making this a high-level behavioral test.
+---
 
-**For example**, instructing the robot:
+## 🎯 Design Tool: AI Extension – Behaviour
 
-- "Pick up the knife, spread peanut butter on the bread, and then place jelly on the other slice."
+The **AI Extension** lets you use an **AI program** (e.g., ChatGPT or Character.ai) as the **robot player** in the Robot Enactment Game. It turns the storytelling experience into a **real-time behaviour simulation** challenge.
 
-The robot must follow each step exactly, mimicking a real-life scenario.
+---
 
+## 📜 Rules of the Game
 
+> ![Rules – AI Extension](./Rules4.png)
 
-### **Challenges with the Tool:**
-The key challenge with this tool came when **ChatGPT** took on the role of the "gamemaster." Unlike expected behavior, ChatGPT did not provide **logical turns**, resulting in **turn-based communication** that disrupted the game flow. The robot (or AI) often failed to transition from one step to the next, misinterpreting the sequence of actions.
+---
 
+### 🛠️ Setup
 
+- Choose an AI platform like ChatGPT or Poe.
+- Load or link to the **Robot Enactment Game** rules and scenario cards.
+- Assign the **AI as the Robot**.
+- Human players draw **Actor Cards** and **Trait Cards** as usual.
 
-### **Key Insights and Design Challenges:**
+🔗 To play directly with our custom GPT called **REG ROBOT**, scan the QR or use the link below:
 
-1. **Turn-Based Interaction:**
-   - This issue highlighted the importance of a **fluid interaction** between a robot and multiple users. It became clear that in **social robot design**, handling multiple people or inputs simultaneously is critical. If a robot is engaged in **conversations** or **tasks** with several users, it must be capable of **prioritizing** or **re-prioritizing** actions efficiently.
+> ![REG Robot – Extra Link](./Link.png)  
+> [https://bit.ly/robot-enactment-game](https://bit.ly/robot-enactment-game)
 
-2. **Specificity in Robot Behavior:**
-   - One critical reflection from this exercise was: **How specific is specific enough?** For a robot to perform a task like making a PB&J sandwich, the instructions must be clear and detailed, but there is a fine line. Too much specificity may limit the robot's flexibility, making it **overly rigid**. The challenge is to find that balance where the robot can understand **general tasks** but also adapt to **new situations** and handle **ambiguity** effectively.
+---
 
-3. **Behavioral Testing Using Real-World Tasks:**
-   - The **programming game** analogy, where one person writes down steps for a task and the other performs them, highlights how robots could be tested in a **real-world task setting**. In this case, we used this tool to assess whether robots could interpret **implied actions** or handle mistakes (e.g., **not holding the knife by its handle**). This method is **direct** and **tangible** for testing robots' ability to understand context, respond to **imperfections**, and adapt to changes in tasks.
+### 🎮 Playing the Game
 
+- Begin the game as normal:
+  - One player draws an **Incident Card** and reads it aloud.
+  - Players act out their characters based on Actor and Trait Cards.
+  - The **AI robot** must respond in character.
 
-### **Lessons Learned from Challenges:**
-We observed that **multiple interactions** and **role-playing** play a critical role in how social robots are perceived and engaged with. For a robot to behave **naturally** and social interaction to be seamless, we need to ensure the robot is capable of **handling multiple inputs**, **prioritizing tasks**, and **responding dynamically** to the environment.
+- During the **Resolution Phase**, the AI must:
+  - Understand social and emotional dynamics
+  - Prioritize conflicting needs
+  - Make safe, empathetic decisions
 
-The **turn-taking issue** raised an important point about designing robots that **prioritize tasks** based on **real-time context**. In human interactions, context drives the flow of conversations, and this same principle needs to be applied in robot design.
+---
+
+### ⚠️ Challenge Mode
+
+- You may find that the AI:
+  - Gets confused about who is speaking
+  - Responds too generically or passively
+  - Breaks character or repeats phrases
+
+💡 Your job is to **rephrase**, **guide**, and **prompt** the AI to perform better.
+
+---
+## 💬 Reflections
+
+This extension teaches us:
+
+- **How to prompt and guide an AI agent**
+- That good behaviour is often the result of **clear framing**
+- That **designing interactions** is about the human-AI feedback loop
+
+Using AI like this blurs the line between **scriptwriting** and **interface design**, helping us test **how robots might act in dynamic social environments**.
 
 ---
