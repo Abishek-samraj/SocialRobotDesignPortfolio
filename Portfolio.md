@@ -375,10 +375,86 @@ If designing a deliberately anti-social robot, I would focus on minimal interact
 
 ## Week 4 Embodiment
 ## Group Work
-![Embodiment1](Embodiment_1.jpg)
-![Embodiment2](Embodiment_2.jpg)
-![Embodiment3](Embodiment.jpg)
 
+In this session, we explored embodiment as a critical element in social robot design—how a robot’s form, posture, color, and attachments shape user expectations and interpretations. Our group created a new design tool inspired by **Gartic Phone**, modified to focus on **scenario-based embodiment design**. The tool builds upon our Session 2 Story-Building Game, using the same scenario cards to prompt creative robot designs.
+
+---
+
+## 🎯 Design Tool: The Embodiment Game
+
+The **Embodiment Game** is a fast-paced, drawing-based activity aimed at generating diverse robot embodiments for different social contexts. 
+
+The tool helps participants reflect on:
+- How **form defines function**
+- How robot **morphology** can hint at roles or intentions
+- How interpretation **shifts across iterations**
+
+---
+
+## 🕹️ Rules of the Game
+
+> ![Rules Summary](./Rules3.png)
+
+---
+
+### 🛠️ Setup
+
+- Each participant gets an **empty drawing card** (paper or tablet).
+- One participant secretly draws a **scenario prompt** from the Story Building Card Deck.
+- The scenario is **not shared** with the group.
+
+---
+
+### ✏️ Round 1: Drawing the Robot
+
+- The first participant draws a **robot embodiment** suited to the secret scenario.
+- Drawing can be manual or AI-generated (e.g., DALL·E, Midjourney).
+- Emphasize design features such as:
+  - Tools, posture, size, shape
+  - Color, expressions, attachments
+- ⏱️ Time limit: 2 minutes
+
+---
+
+### 🤔 Round 2: Guess the Scenario
+
+- The drawing is passed clockwise to the next player.
+- This participant **guesses the original scenario** based solely on the drawing.
+- ❌ No clarifications or explanations are allowed.
+
+---
+
+### ✏️ Round 3: New Robot Design
+
+- The guessed scenario is passed again to another participant.
+- That player draws a **new robot embodiment** based on the guessed scenario.
+- ⏱️ Time limit: 2 minutes
+- This round **tests how ideas mutate** through visual interpretation.
+
+---
+
+### 💬 Discussion
+
+Once all rounds are completed, all drawings and guesses are placed in order. Then, each player reflects on:
+
+- **What they drew or guessed**
+- **Why they made specific design choices** (e.g., tools, lights, shape)
+- **What helped or confused** the interpretation
+
+---
+
+## 📌 Conclusion
+
+This tool revealed how tightly **robot embodiment is linked to user perception** and how misinterpretations often arise from ambiguous design cues.
+
+### Key Takeaways:
+
+- Embodiments must **balance form and function**
+- Small changes (posture, color, attachments) can **drastically shift** meaning
+- The tool promotes **creative iteration** and **speculative thinking**
+
+
+---
 ### Reflections
 
 #### **Embodied vs Virtual Interaction**
