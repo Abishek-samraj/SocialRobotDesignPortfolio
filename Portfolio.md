@@ -208,8 +208,6 @@ These scenarios helped test how a robot like ROSE could mediate distress, priori
 
 ---
 
-> 💡 *Tip: Before playing, customize your cards to match the robot or context (e.g., hospital, classroom). This makes the enactment richer and more relevant.*
-
 
 ## Reflections
 
@@ -344,7 +342,6 @@ This tool is also connected to our **Story-Building Game** from Session 2. By co
   - [Round 2 - Excited](https://photos.app.goo.gl/5Td6v3C9Th9fM2ZSA)
 
 ---
-> 💡 *Note: The list of emotions is defined before the experiment by choosing at least two emotions for each of the six main groups in the Expression Wheel.*
 
 ![Expression_Wheel](Expression_Wheel.png)
 
@@ -380,7 +377,7 @@ In this session, we explored embodiment as a critical element in social robot de
 
 ---
 
-## 🎯 Design Tool: The Embodiment Game
+## Design Tool: The Embodiment Game
 
 The **Embodiment Game** is a fast-paced, drawing-based activity aimed at generating diverse robot embodiments for different social contexts. 
 
@@ -391,13 +388,13 @@ The tool helps participants reflect on:
 
 ---
 
-## 🕹️ Rules of the Game
+## Rules of the Game
 
 > ![Rules Summary](./Rules3.png)
 
 ---
 
-### 🛠️ Setup
+### Setup
 
 - Each participant gets an **empty drawing card** (paper or tablet).
 - One participant secretly draws a **scenario prompt** from the Story Building Card Deck.
@@ -405,7 +402,7 @@ The tool helps participants reflect on:
 
 ---
 
-### ✏️ Round 1: Drawing the Robot
+###  Round 1: Drawing the Robot
 
 - The first participant draws a **robot embodiment** suited to the secret scenario.
 - Drawing can be manual or AI-generated (e.g., DALL·E, Midjourney).
@@ -416,15 +413,15 @@ The tool helps participants reflect on:
 
 ---
 
-### 🤔 Round 2: Guess the Scenario
+### Round 2: Guess the Scenario
 
 - The drawing is passed clockwise to the next player.
 - This participant **guesses the original scenario** based solely on the drawing.
-- ❌ No clarifications or explanations are allowed.
+-  No clarifications or explanations are allowed.
 
 ---
 
-### ✏️ Round 3: New Robot Design
+###  Round 3: New Robot Design
 
 - The guessed scenario is passed again to another participant.
 - That player draws a **new robot embodiment** based on the guessed scenario.
@@ -433,7 +430,7 @@ The tool helps participants reflect on:
 
 ---
 
-### 💬 Discussion
+### Discussion
 
 Once all rounds are completed, all drawings and guesses are placed in order. Then, each player reflects on:
 
@@ -443,7 +440,7 @@ Once all rounds are completed, all drawings and guesses are placed in order. The
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This tool revealed how tightly **robot embodiment is linked to user perception** and how misinterpretations often arise from ambiguous design cues.
 
@@ -485,19 +482,19 @@ This design tool helps us understand how to **structure interactions**, **assign
 
 ---
 
-## 🎯 Design Tool: AI Extension – Behaviour
+##  Design Tool: AI Extension – Behaviour
 
 The **AI Extension** lets you use an **AI program** (e.g., ChatGPT or Character.ai) as the **robot player** in the Robot Enactment Game. It turns the storytelling experience into a **real-time behaviour simulation** challenge.
 
 ---
 
-## 📜 Rules of the Game
+##  Rules of the Game
 
 > ![Rules – AI Extension](./Rules4.png)
 
 ---
 
-### 🛠️ Setup
+###  Setup
 
 - Choose an AI platform like ChatGPT or Poe.
 - Load or link to the **Robot Enactment Game** rules and scenario cards.
@@ -511,7 +508,7 @@ The **AI Extension** lets you use an **AI program** (e.g., ChatGPT or Character.
 
 ---
 
-### 🎮 Playing the Game
+### Playing the Game
 
 - Begin the game as normal:
   - One player draws an **Incident Card** and reads it aloud.
@@ -525,7 +522,7 @@ The **AI Extension** lets you use an **AI program** (e.g., ChatGPT or Character.
 
 ---
 
-### ⚠️ Challenge Mode
+### Challenge Mode
 
 - You may find that the AI:
   - Gets confused about who is speaking
@@ -535,7 +532,7 @@ The **AI Extension** lets you use an **AI program** (e.g., ChatGPT or Character.
 💡 Your job is to **rephrase**, **guide**, and **prompt** the AI to perform better.
 
 ---
-## 💬 Reflections
+##  Reflections
 
 This extension teaches us:
 
