@@ -51,6 +51,7 @@
   - [How It Works](#how-it-works)
   - [Learnings](#learnings)
   - [Key Insight](#key-insight)
+ 
 ---
 
 ## About Me
@@ -104,6 +105,7 @@ Here os the slide with
 
 ### Slide
 - Please find the slide with summary of our case here [View Slide](Slide.jpg)
+
 ---
 
 ## Reflections
@@ -142,7 +144,7 @@ Our **story-building tool** is a **scenario-based card game** that supports stor
 
 ---
 
-### 📖 Freytag’s Pyramid: A Narrative Framework for HRI
+### Freytag’s Pyramid: A Narrative Framework for HRI
 
 Freytag’s Pyramid provides a five-part story structure ideal for emotional and decision-driven robot narratives. In our enactment game, it helps scaffold scene dynamics and robot-user interactions across the full emotional arc.
 
@@ -208,7 +210,7 @@ International Journal of Academic Research in Business and Social Sciences, 14(6
 - New round begins with the Setup.
 
 Full card set and template:  
-[🃏 Canva Design Link](https://www.canva.com/design/DAGmrcvpGLM/Vz-GDnWxM2QvK-Gzf1fmzg/view?utm_content=DAGmrcvpGLM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h62cb1e60a3)
+[ Canva Design Link](https://www.canva.com/design/DAGmrcvpGLM/Vz-GDnWxM2QvK-Gzf1fmzg/view?utm_content=DAGmrcvpGLM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h62cb1e60a3)
 
 
 ---
