@@ -534,15 +534,58 @@ Once all rounds are completed, all drawings and guesses are placed in order. The
 
 ---
 
-## Conclusion
+## Key Insights
 
-This tool revealed how tightly **robot embodiment is linked to user perception** and how misinterpretations often arise from ambiguous design cues.
+#### 1. Embodiment Communicates Function and Emotion
 
-### Key Takeaways:
+During the Embodiment Game, we found that even small differences in robot sketches—like spikes vs. rounded corners or hand-held tools vs. built-in components—significantly affected player interpretation. Robots were seen as “threatening,” “medical,” or “harmless cleaner” based on simple visual cues.
 
-- Embodiments must **balance form and function**
-- Small changes (posture, color, attachments) can **drastically shift** meaning
-- The tool promotes **creative iteration** and **speculative thinking**
+**Insight:**  
+Embodiment is not neutral—shape, posture, and design details influence users’ emotional reactions and perceived robot purpose.
+
+📚 *Reference:*  
+Hwang, J., Park, T., & Hwang, W. (2013). *The effects of overall robot shape on the emotions invoked in users and the perceived personalities of robot*.  
+Applied Ergonomics, 44(3).  
+[https://doi.org/10.1016/j.apergo.2012.10.010](https://doi.org/10.1016/j.apergo.2012.10.010)
+
+---
+
+#### 2. Sketch-Based Play Surfaces Interpretative Gaps
+
+Our drawing and guessing game revealed how **design ambiguity** leads to misinterpretation. A robot holding a urinal was mistaken for a water-dispenser. A cleaning bot with a bucket in its torso evoked “hospital waste bin” instead of helper.
+
+**Insight:**  
+Embodiment games help identify mismatch between designer intention and user perception—critical for inclusive robot design.
+
+📚 *Reference:*  
+Dennler, N., Ruan, C., Hadiwijoyo, J., Chen, B., Nikolaidis, S., & Matarić, M. (2023). *Design Metaphors for Understanding User Expectations of Socially Interactive Robot Embodiments*.  
+ACM Transactions on Human-Robot Interaction, Article No. 21, Issue 14.  
+[https://doi.org/10.1145/3582993](https://doi.org/10.1145/3582993)
+
+---
+
+#### 3. Form Reflects Cultural Sensitivity and Social Norms
+
+When prompted with a cultural constraint (e.g., hygiene visibility in certain contexts), participants redesigned the robot to hide or soften equipment presence. A “visible urinal” was replaced with a delivery-style drawer. A “spike” warning became a light or verbal cue.
+
+**Insight:**  
+Social robots must be embodied with cultural cues and metaphors in mind—especially in health and care domains.
+
+📚 *Reference:*  
+T. Hwang, J., Park, T., & Hwang, W. (2012). *The effects of overall robot shape on the emotions invoked in users and the perceived personalities of robot*.  
+Elsevier Ltd and The Ergonomics Society.  
+[https://doi.org/10.1016/j.apergo.2012.10.010](https://doi.org/10.1016/j.apergo.2012.10.010)
+
+---
+
+#### 4. Embodiment Games Foster Rapid, Speculative Prototyping
+
+Inspired by Gartic Phone, our embodiment game let participants prototype **non-standard robot forms** for unique contexts. Through drawing and guessing, players explored how form reflects role, context, and affordance—without needing physical hardware.
+
+**Insight:**  
+Sketch-based games are a low-barrier tool to test form-function assumptions early in the design process, encouraging inclusive, speculative iteration.
+
+---
 
 
 ---
@@ -626,14 +669,119 @@ The **AI Extension** lets you use an **AI program** (e.g., ChatGPT or Character.
 💡 Your job is to **rephrase**, **guide**, and **prompt** the AI to perform better.
 
 ---
-##  Reflections
+## Key Insights
 
-This extension teaches us:
+#### 1. AI Behavior Depends Heavily on Framing and Prompt Clarity
 
-- **How to prompt and guide an AI agent**
-- That good behaviour is often the result of **clear framing**
-- That **designing interactions** is about the human-AI feedback loop
+When we used ChatGPT to act as the robot in our storytelling game, its behavior was often contextually appropriate—but only after being given **very specific framing**, role assignments, and conversational structure. If the instructions were vague, the AI gave neutral or generic responses.
 
-Using AI like this blurs the line between **scriptwriting** and **interface design**, helping us test **how robots might act in dynamic social environments**.
+**Insight:**  
+Social robot behavior is shaped not just by logic, but by **how roles, tasks, and environments are framed**. Prompt engineering becomes part of behavior design.
 
 ---
+
+#### 2. AI Struggles with Multi-User Prioritization and Timing
+
+In scenarios with multiple human roles (e.g., child crying, cleaner mopping, nurse yelling), the AI often failed to prioritize correctly or delayed action. For example, it addressed each character equally, rather than triaging the emergency or resolving emotional distress first.
+
+**Insight:**  
+Robots operating in real-life social settings must be equipped with **priority-based, interruptible behavior flows**, not sequential rule-following logic.
+
+---
+
+#### 3. Turn-Based Interaction Reveals Limitations of Linear Scripts
+
+The AI’s tendency to default to turn-based “chat” structure caused mismatches with dynamic, overlapping social interactions. Real-world social settings are not polite turn-taking systems—they involve **interruptions, parallel demands, and reactive escalation**.
+
+**Insight:**  
+Social robots need behavior models that go beyond scripted exchanges—they should support **asynchronous attention**, **real-time reactivity**, and **context switching**.
+
+---
+
+#### 4. Behavior Testing with AI Surfaces Design Gaps Early
+
+Using ChatGPT in simulation mode allowed us to test and **debug behavior expectations** before implementing any real code or hardware. For example, we realized that emotion detection, multi-role arbitration, and tone consistency were not well supported by default.
+
+**Insight:**  
+Behavior prototyping through AI simulation is a **low-cost, high-yield method** to identify where robot responses will likely break down or confuse users.
+
+---
+
+#### 5. Adaptive Behavior Encourages Trust and Natural Interaction
+
+Static responses quickly feel robotic or cold in long term use. Our enactment highlighted that **emotionally responsive** and **context-aware adjustments** (like softening tone or adapting to emotional escalation) made the robot feel more human-like and trustworthy.
+
+**Insight:**  
+Robots that adapt behavior to context and emotion foster **greater trust** in users over repeated interactions.
+
+📚 *Reference:*  
+Leite, I., Pereira, A., Mascarenhas, S., Martinho, C., & Paiva, A. (2013).  
+*The Influence of Empathy in Human–Robot Relations.*  
+International Journal of Human-Computer Studies, 71(3), 250–260.  
+[https://doi.org/10.1016/j.ijhcs.2012.09.005](https://doi.org/10.1016/j.ijhcs.2012.09.005)
+
+---
+## Week 7: Ethics  
+## *Oh but wait…* – Ethical Card-Prompt Extension
+
+Designing social robots for the present is often straightforward—until you hit that moment of, *“Wait… what if?”*
+
+- What if the robot is deployed in a culture where visible hygiene tools are taboo?
+- What if it's introduced in a context where caregiving roles carry different social expectations?
+- What if the robot becomes outdated, but the person relying on it doesn't?
+
+To explore these complex tensions, we introduced an **ethical card-prompt extension** to our base scenario-building game. This deck, inspired by the [Envisioning Cards toolkit](https://vsdesign.org/toolkits/envisioningcards/), is called:
+
+
+### *“Oh but wait…” Cards*
+
+> ![Oh but wait card 1](OBW1.png)  
+> ![Oh but wait card 2](OBW2.png)  
+> ![Envisioning Card Set](EnvisioningCards.png)
+
+These cards bring unexpected twists—cultural, temporal, or social—that challenge initial assumptions and invite deeper ethical reflection.
+
+---
+
+### How It Works
+
+1. A player begins by drawing and playing through a scenario as usual.
+2. Just after the climax (or midway through), a random *“Oh but wait…”* card is drawn.
+3. This card introduces a disruptive new variable (e.g., a cultural clash or future time jump).
+4. Players must now reconsider or adapt their robot design in response.
+5. A reflection round follows, discussing the values challenged and assumptions revealed.
+
+---
+
+### Example Prompts
+
+- “Oh but wait… this robot is deployed in a country where autonomy is valued over safety.”
+- “Oh but wait… hygiene items must be private in this cultural context.”
+- “Oh but wait… the robot is still emotionally relied on, even though it’s obsolete.”
+
+---
+
+### Learnings
+
+- Ethical and sustainability issues are best addressed **during** the design phase—not after it.
+- Shifting the context mid-game revealed how deeply our designs rely on **unstated norms**.
+- These prompts helped us reflect on values such as:
+  - **Dignity**
+  - **Autonomy**
+  - **Privacy**
+  - **Longevity**
+- Most importantly, they reminded us to design **not just for today, but for how unpredictable the future may be**.
+
+---
+
+### Key Insight
+
+**Insight:**  
+Ethical considerations must be embedded into the design process—not added as an afterthought. By injecting cultural, temporal, or emotional shifts mid-play, we uncovered deep assumptions and opened space for more adaptable, inclusive design.
+
+📚 *Reference:*  
+Inspired by the [Envisioning Cards](https://vsdesign.org/toolkits/envisioningcards/) developed at the Values in Design Lab (University of Washington)
+
+---
+
+
