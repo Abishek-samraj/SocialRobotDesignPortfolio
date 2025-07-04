@@ -144,6 +144,30 @@ I haven't watched 'Be Right Back' (Black Mirror) but after reading about it, its
 
 Our **story-building tool** is a **scenario-based card game** that supports storytelling in human-robot interaction. It’s designed around **Freytag’s Pyramid** and helps simulate emotionally rich social robot scenarios through role-playing and improvisation.
 
+---
+
+### 📖 Freytag’s Pyramid: A Narrative Framework for HRI
+
+Freytag’s Pyramid provides a five-part story structure ideal for emotional and decision-driven robot narratives. In our enactment game, it helps scaffold scene dynamics and robot-user interactions across the full emotional arc.
+
+> ![Freytag's Pyramid](Freytag.png)
+
+- **Exposition**: Introduce robot & human roles  
+- **Inciting Incident**: Trigger an emotional or logistical challenge  
+- **Rising Action**: Players build tension through roleplay  
+- **Climax**: The robot must act meaningfully  
+- **Falling Action & Resolution**: Players reflect and resolve the scenario  
+
+This format brings structure to roleplay, enabling speculative and realistic testing of robot behavior, empathy, and collaboration.
+
+> 📚 *Reference:*  
+Abd Aziz, S. H., Ahmad Ridzuan, A. N. A., Khamis, M. H., Mohd Azni, Z., Hassan, M. S., & Abdul Rani, N. S. (2024).  
+*The Integration of Freytag’s Pyramid into AI-Generated Art Prompts*.  
+International Journal of Academic Research in Business and Social Sciences, 14(6).  
+[https://doi.org/10.6007/ijarbss/v14-i6/20143](https://doi.org/10.6007/ijarbss/v14-i6/20143)
+
+---
+
 #### How the Game Works
 
 **Setup:**
@@ -193,7 +217,44 @@ Full card set and template:
 
 ---
 
-#### Application to ROSE Robot
+##  Key Insights 
+
+####  1. Scenario-Based Roleplay Enables Meaningful HRI Prototyping
+
+The **Robot Enactment Game** transforms abstract robot functions into **situated, social behaviors** through structured roleplay. By assigning roles and traits to human players and introducing the robot as a participant, we were able to simulate real-world emotional dynamics (e.g., urgency, empathy, conflict).
+
+**Insight:**  
+Role-based storytelling provides a low-fidelity yet high-impact way to explore how a robot should behave in uncertain, emotional, or multi-user situations.
+
+📚 *Reference:*  
+Doernbach, T., & Gerndt, R. (2025). *Scenario-Based Learning in Human-Robot Interaction: Embedding User-Centered Design Into Computer Science Education*. In Palinko, O. et al. (Eds.), Social Robotics. Lecture Notes in Computer Science, vol 15561. Springer.  
+[https://doi.org/10.1007/978-981-96-3522-1_14](https://doi.org/10.1007/978-981-96-3522-1_14)
+
+---
+
+#### 2. Freytag’s Pyramid Creates Narrative Structure in Robot Interaction
+
+Using **Freytag’s Pyramid** helped us scaffold emotional escalation and robot decision points in a natural way. This made robot behaviors more coherent and helped us script and test how robots handle peak moments like distress, accidents, or social friction.
+
+**Insight:**  
+Mapping robot responses to dramatic structure ensures timing, reactivity, and emotional tone are coherent and contextually meaningful.
+
+📚 *Reference:*  
+Abd Aziz, S. H. et al. (2024). *The Integration of Freytag’s Pyramid into AI-Generated Art Prompts*. International Journal of Academic Research in Business and Social Sciences, 14(6).  
+[https://doi.org/10.6007/ijarbss/v14-i6/20143](https://doi.org/10.6007/ijarbss/v14-i6/20143)
+
+---
+
+#### 3. Card-Based Modularity Encourages Replayability and Rich Variation
+
+Our modular card system (Actor, Trait, Incident, Object, Action, Wild) supports both **realistic and speculative testing**. Players can easily generate new situations while preserving narrative structure.
+
+**Insight:**  
+Modular storytelling tools support rapid iteration and scenario diversity—crucial for uncovering edge cases and unintended consequences in HRI design.
+
+---
+
+### Application to ROSE Robot
 
 We adapted the game for healthcare design with ROSE robot. Two example scenarios used:
 
