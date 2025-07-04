@@ -1,5 +1,5 @@
-# Social Robot Design Portfolio
-
+# Social Robot Design Portfolio - Group 1 
+# The Robot Enactment Game
 ## Table of Contents
 - [About Me](#about-me)
 - Week 1 Design Tools
@@ -266,6 +266,8 @@ We adapted the game for healthcare design with ROSE robot. Two example scenarios
 
 These scenarios helped test how a robot like ROSE could mediate distress, prioritize emergencies, or act empathetically.
 
+![ROSE Expression](ST1.jpg)
+![ROSE Expression](ST2.jpg)
 ---
 
 
@@ -533,6 +535,52 @@ Once all rounds are completed, all drawings and guesses are placed in order. The
 - **What helped or confused** the interpretation
 
 ---
+## Tools in Action – ROSE: Embodiment
+
+To put our **Embodiment Game** into practice, we tested it using real sketches of the **ROSE robot** in healthcare scenarios. Each participant began by drawing their interpretation of ROSE based on a scenario prompt. The drawing was passed to another player who guessed the scenario and redrew the robot based on their interpretation. A third player continued the cycle by drawing again based on the second guess.
+
+The results were revealing—and sometimes hilarious. A single design detail could completely change the robot’s intended purpose. This helped us surface how **form directly shapes perception**.
+
+> ![Embodiment Flow Overview](Emmbody.png)
+
+---
+
+### Game Flow & Sketch Interpretation
+
+| **Participant** | **Drawing or Guess** | **Explanation** |
+|----------------|----------------------|-----------------|
+| **Adarsh**     | ![Sketch 1](EB1.png) <br> ROSE with a cleaning rag in the base | Based on scenario: wet floor; Adarsh adapts the robot’s base for cleaning. |
+| **Marsild**    | Guesses: “The cleaner is sick and the robot should help clean the floor” | Logical interpretation; assumes the robot is compensating for human absence. |
+| **Abishek**    | ![Sketch 2](EB2.png) <br> ROSE with a bucket in the stomach and mop in hand | Enhances the cleaning metaphor with anthropomorphic tools. |
+
+---
+
+| **Participant** | **Drawing or Guess** | **Explanation** |
+|----------------|----------------------|-----------------|
+| **Abishek**    | ![Sketch 3](EB3.png) <br> ROSE with spikes to prevent touch | Protects itself when transporting medication; designed for safety. |
+| **Adarsh**     | Guesses: “Robot should not be touched” | Interprets the spikes as a warning rather than defense. |
+| **Marsild**    | ![Sketch 4](EB4.png) <br> Adds a warning sign and alarm | Reinforces the anti-touch concept through visual and auditory cues. |
+
+---
+
+| **Participant** | **Drawing or Guess** | **Explanation** |
+|----------------|----------------------|-----------------|
+| **Marsild**    | ![Sketch 5](EB5.png) <br> ROSE holding a urinal | Reflects bathroom assistance scenario. |
+| **Abishek**    | Misinterprets: “Robot should dispense water to who needs it” | Mistook the urinal for a glass. |
+| **Adarsh**     | ![Sketch 6](EB6.png) <br> ROSE with a water dispenser on the front | Adjusts design based on water-dispensing function. |
+
+---
+
+### What This Taught Us
+
+- **Small design elements (e.g., a bucket or spike) lead to vastly different interpretations.**
+- Players brought their own assumptions and cultural lenses into the redesign.
+- This game made misunderstandings visible early—**before** they became embedded in physical prototypes.
+- Sketching ROSE allowed us to experiment with roles like cleaner, protector, and care-assistant across multiple scenarios.
+
+
+---
+
 
 ## Key Insights
 
@@ -604,11 +652,6 @@ Sketch-based games are a low-barrier tool to test form-function assumptions earl
 - The embodiment of a robot should be primarily determined by its functions. For example, a robot that must move and manipulate objects will need a design with appropriate mobility and grasping capabilities. Function-first design ensures that robots are built for practical use, with social or emotional aspects added thoughtfully for engagement.
 
 
-## Week 5 Tools for ROSE
-## Expression
-![ROSE Expression](ROSE_Expression_1.jpg)
-![ROSE Expression](ROSE_Expression_2.jpg)
-![ROSE Expression](ROSE_Expression_3.jpg)
 
 
 ## Week 6: Behavior Group Work
