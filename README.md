@@ -389,11 +389,7 @@ In our group, we used the **Dash Robot** for this activity. Dash is a small, pro
    - **Was the robot's expression clear or ambiguous?**
    - **How could the robot's expressiveness be improved for better understanding?**
 
----
-
-#### **Linking Expression and Storytelling**
-
-This tool is also connected to our **Story-Building Game** from Session 2. By combining these tools, we could envision how the robot could react to specific scenarios with the same expressive behaviors used in our **robot enactment game**. The robot can participate in emotional storytelling, which helps us design robots that can engage in nuanced, emotionally intelligent ways.
+![ExpressionGAME](ExpressionGAME.png)
 
 ---
 
@@ -405,12 +401,50 @@ This tool is also connected to our **Story-Building Game** from Session 2. By co
 
 ![Expression_Wheel](Expression_Wheel.png)
 
-### Conclusion
+---
+## Key Insights
 
-Using both physical and digital tools helped us reflect on the importance of **nonverbal communication** in social robots. These exercises will contribute to improving the expressiveness of robots like **ROSE**, enabling them to better interact with humans in various social settings.
+#### 1. Nonverbal Expression Is a Core Communication Modality in HRI
 
+In our paper robot experiment, we explored how posture-based cues like head tilting and bowing express emotions such as “sad,” “curious,” or “listening.” While some expressions (like sadness) were universally understood, others (like excitement) were interpreted inconsistently.
 
+**Insight:**  
+Nonverbal expression is powerful but easily misinterpreted. Effective HRI design requires intentional gestures, timing, and posture clarity.
 
+📚 *Reference:*  
+Urakami, J., & Seaborn, K. (2023). *Nonverbal Cues in Human–Robot Interaction: A Communication Studies Perspective*.  
+ACM Trans. Hum.-Robot Interact., 12(2), Article 22.  
+[https://doi.org/10.1145/3581972](https://doi.org/10.1145/3581972)
+
+---
+
+#### 2. Multimodal Cues Improve Clarity and Emotion Perception
+
+Participants often struggled to interpret **single-modal gestures** (like a head wiggle) in the absence of light or sound. We found that expressive accuracy improves when motion is paired with auditory or visual reinforcement.
+
+**Insight:**  
+Gesture alone is not enough—robots need multimodal communication (e.g., lights, sounds) to express emotion with higher fidelity.
+
+📚 *Reference:*  
+Johnson, D.O., Cuijpers, R.H., & van der Pol, D. (2013). *Imitating Human Emotions with Artificial Facial Expressions*.  
+International Journal of Social Robotics, 5, 503–513.  
+[https://doi.org/10.1007/s12369-013-0206-0](https://doi.org/10.1007/s12369-013-0206-0)
+
+---
+
+#### 3. Semantic-Free Sound Adds Emotional Reinforcement
+
+We observed that expressions such as “excited” or “curious” were difficult to distinguish when only visual motion was used. Adding even simple, **nonverbal sound cues** (like hums, beeps, or pulses) could help make robot emotions more distinguishable.
+
+**Insight:**  
+Semantic-free utterances are an underused channel for reinforcing robot intent and emotion, especially in ambiguous contexts.
+
+📚 *Reference:*  
+Yilmazyildiz, S., Read, R., Belpaeme, T., & Verhelst, W. (2016). *Review of Semantic-Free Utterances in Social Human–Robot Interaction*.  
+International Journal of Human–Computer Interaction, 32(1), 63–85.  
+[https://doi.org/10.1080/10447318.2015.1093856](https://doi.org/10.1080/10447318.2015.1093856)
+
+---
 
 
 ### Reflections
