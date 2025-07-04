@@ -2,7 +2,8 @@
 # The Robot Enactment Game
 ## Table of Contents
 - [About Me](#about-me)
-- Week 1 Design Tools
+
+- [Design Tools](#design-tools)
   - [Group Work](#group-work)
     - [Case Description](#case-description)
     - [Requirements](#requirements)
@@ -17,44 +18,39 @@
     - [Reflection: Nabaztag](#reflection-nabaztag)
     - [Reflection: CuddleBits](#reflection-cuddlebits)
     - [Reflection: Be-Right-Back](#reflection-be-right-back)
-- Week 2 Storytelling
-  - [Group Work](#group-work)
+
+- [Storytelling](#storytelling)
+  - [Group Work: The Robot Enactment Game](#story-building-tool-the-robot-enactment-game)
+  - [Key Insights](#key-insights)
+  - [Application to ROSE Robot](#application-to-rose-robot)
   - [Reflections](#reflections)
-    - [Robot and AI Story Categories](#robot-and-ai-story-categories)
-    - [Science Fiction Prototyping vs Scenario-Based Design](#science-fiction-prototyping-vs-scenario-based-design)
-    - [Reflection: 21st Century Robot](#reflection-21st-century-robot)
-    - [Reflection: Product Stories vs Reality](#reflection-product-stories-vs-reality)
-    - [Why Storytelling Matters in Social Robot Design](#why-storytelling-matters-in-social-robot-design)
-    - [Reflection: Healthcare vs Social Robot Stories](#reflection-healthcare-vs-social-robot-stories)
-      
-- Week 3 Expression
+
+- [Expression](#expression)
   - [Group Work: Experiment and Design Tool](#group-work-experiment-and-design-tool)
-
+  - [Experiment: Paper Robot Embodiment](#experiment-paper-robot-embodiment)
+  - [Design Tool: The Expression Game](#design-tool-the-expression-game)
+  - [Experience with the Dash Robot](#experience-with-the-dash-robot)
+  - [Key Insights](#key-insights)
   - [Reflections](#reflections)
-    - [Lessons from Ju and Hoffmann](#lessons-from-ju-and-hoffmann)
-    - [Laban Framework and Alternatives](#laban-framework-and-alternatives)
-    - [Designing Robot Movement](#designing-robot-movement)
-    - [Sound Design, Haptics and Morphology](#sound-design-haptics-and-morphology)
-    - [Anti-Social Robot Design](#anti-social-robot-design)
 
-- Week 4 Embodiment
+- [Embodiment](#embodiment)
   - [Group Work](#group-work)
+  - [Design Tool: The Embodiment Game](#design-tool-the-embodiment-game)
+  - [Tools in Action – ROSE: Embodiment](#tools-in-action--rose-embodiment)
+  - [Key Insights](#key-insights)
   - [Reflections](#reflections)
-    - [Embodied vs Virtual Interaction](#embodied-vs-virtual-interaction)
-    - [Designing Robot Interaction](#designing-robot-interaction)
-    - [Anthropomorphism vs Function](#anthropomorphism-vs-function)
-    - [Function Defines Form](#function-defines-form)
-   
-- Week 5 Tools for ROSE
-  - [Expression](#expression)
- 
-- Week 6 Behavior
+
+
+- [Behavior](#behavior)
   - [Group Work](#group-work)
-    - [Tool: Robot Enactment Game with ChatGPT for Behavior Prototyping](#tool-robot-enactment-game-with-chatgpt-for-behavior-prototyping)
-    - [How the Tool Works](#how-the-tool-works)
-    - [Challenges with the Tool](#challenges-with-the-tool)
-    - [Key Insights and Design Challenges](#key-insights-and-design-challenges)
-    - [Lessons Learned from Challenges](#lessons-learned-from-challenges)
+  - [Design Tool: AI Extension – Behaviour](#design-tool-ai-extension--behaviour)
+  - [Key Insights](#key-insights)
+
+- [Ethics](#ethics)
+  - [Oh but wait… – Ethical Card-Prompt Extension](#oh-but-wait--ethical-card-prompt-extension)
+  - [How It Works](#how-it-works)
+  - [Learnings](#learnings)
+  - [Key Insight](#key-insight)
 ---
 
 ## About Me
@@ -64,7 +60,7 @@
 | Abishek Samraj Johnson Sembudurai  | MSc student in Robotics, specilisation in Mechatronics and Physical AI, exploring robot control, perception, and HRI design.                                       | [Download My CV](CV.pdf) |
 
 ---
-## Week 1 Design Tools
+## Design Tools
 
 ## Group Work
 
@@ -138,7 +134,7 @@ CuddleBits taught that small movements like soft shaking triggered strong emotio
 I haven't watched 'Be Right Back' (Black Mirror) but after reading about it, its evident that robots can help people but cannot fully replace real humans.
 
 ...
-## Week 2 Storytelling
+## Storytelling
 ## Group Work 
 ### Story-Building Tool: *The Robot Enactment Game*
 
@@ -291,7 +287,7 @@ A good story helps people understand the robot and trust it. If the robot looks 
 ### Reflection: Healthcare vs Social Robot Stories
 In healthcare, people want proof that something works before they use it. But robot designers often start with a cool idea or dream and test it later. This makes it hard for robots to be used in hospitals. Robot stories should include some real proof if they want to be taken seriously in healthcare.
 
-## Week 3 Expression
+## Expression
 ## Group Work: Experiment and Design Tool
 
 
@@ -466,7 +462,7 @@ The Laban Framework can also inspire sound and haptic design. For example, a rob
 #### **Anti-Social Robot Design**
 If designing a deliberately anti-social robot, I would focus on minimal interaction, no emotional expression, and slow, stiff movement. The robot would avoid non-verbal cues like eye contact or expressive gestures, using only the most basic motions needed for functionality. This would create a robot that is functional but distant, avoiding unnecessary social engagement or emotional expression.
 
-## Week 4 Embodiment
+## Embodiment
 ## Group Work
 
 In this session, we explored embodiment as a critical element in social robot design—how a robot’s form, posture, color, and attachments shape user expectations and interpretations. Our group created a new design tool inspired by **Gartic Phone**, modified to focus on **scenario-based embodiment design**. The tool builds upon our Session 2 Story-Building Game, using the same scenario cards to prompt creative robot designs.
@@ -505,7 +501,7 @@ The tool helps participants reflect on:
 - Emphasize design features such as:
   - Tools, posture, size, shape
   - Color, expressions, attachments
-- ⏱️ Time limit: 2 minutes
+- Time limit: 2 minutes
 
 ---
 
@@ -521,7 +517,7 @@ The tool helps participants reflect on:
 
 - The guessed scenario is passed again to another participant.
 - That player draws a **new robot embodiment** based on the guessed scenario.
-- ⏱️ Time limit: 2 minutes
+- Time limit: 2 minutes
 - This round **tests how ideas mutate** through visual interpretation.
 
 ---
@@ -575,7 +571,7 @@ The results were revealing—and sometimes hilarious. A single design detail cou
 
 - **Small design elements (e.g., a bucket or spike) lead to vastly different interpretations.**
 - Players brought their own assumptions and cultural lenses into the redesign.
-- This game made misunderstandings visible early—**before** they became embedded in physical prototypes.
+- This game made misunderstandings visible early **before** they became embedded in physical prototypes.
 - Sketching ROSE allowed us to experiment with roles like cleaner, protector, and care-assistant across multiple scenarios.
 
 
@@ -654,7 +650,7 @@ Sketch-based games are a low-barrier tool to test form-function assumptions earl
 
 
 
-## Week 6: Behavior Group Work
+## Behavior 
 ## Group Work
 In **Session 6: Behaviour**, we explored how to prototype high-level robot behaviour using natural language AIs like ChatGPT. Our goal was to play the **Robot Enactment Game** (from Week 2) with a **digital robot player** a GPT-powered AI.
 
@@ -764,7 +760,7 @@ International Journal of Human-Computer Studies, 71(3), 250–260.
 [https://doi.org/10.1016/j.ijhcs.2012.09.005](https://doi.org/10.1016/j.ijhcs.2012.09.005)
 
 ---
-## Week 7: Ethics  
+## Ethics  
 ## *Oh but wait…* – Ethical Card-Prompt Extension
 
 Designing social robots for the present is often straightforward—until you hit that moment of, *“Wait… what if?”*
