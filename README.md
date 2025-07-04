@@ -188,8 +188,7 @@ Our **story-building tool** is a **scenario-based card game** that supports stor
 - New round begins with the Setup.
 
 Full card set and template:  
-[🃏 Canva Design Link]([https://www.canva.com/design/DAGmrcvpGLM/G1klm_CggOCkY95wnVHsEA/edit](https://www.canva.com/design/DAGmrcvpGLM/Vz-GDnWxM2QvK-Gzf1fmzg/view?utm_content=DAGmrcvpGLM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h62cb1e60a3))
-
+[🃏 Canva Design Link](https://www.canva.com/design/DAGmrcvpGLM/G1klm_CggOCkY95wnVHsEA/edit](https://www.canva.com/design/DAGmrcvpGLM/Vz-GDnWxM2QvK-Gzf1fmzg/view?utm_content=DAGmrcvpGLM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h62cb1e60a3))
 
 
 ---
